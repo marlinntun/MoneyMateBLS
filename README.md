@@ -4,14 +4,14 @@ MoneyMate adalah aplikasi Android sederhana untuk mencatat transaksi keuangan ha
 
 ## Informasi Pembuat
 - **Nama:** Zerlina Anggun Candrawati
-- **NPM:** 2408201016
+- **NPM:** 24082010164
 
 ## Deskripsi Aplikasi
 Aplikasi ini dibuat untuk memenuhi tugas UAS Pemrograman Mobile dengan menerapkan minimal 4 interface, yaitu:
-- form pendataan,
-- tampilan data dari form,
-- daftar data menggunakan RecyclerView,
-- detail data dari RecyclerView.
+- Form pendataan,
+- Tampilan data dari form,
+- Daftar data menggunakan RecyclerView,
+- Detail data dari RecyclerView.
 
 ## Fitur
 - Tambah transaksi
