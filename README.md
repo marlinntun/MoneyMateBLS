@@ -1,6 +1,6 @@
 # MoneyMate
 
-MoneyMate adalah aplikasi Android sederhana untuk mencatat transaksi keuangan harian, baik pemasukan maupun pengeluaran.
+MoneyMate adalah aplikasi android sederhana untuk mencatat transaksi keuangan harian, baik pemasukan maupun pengeluaran.
 
 ## Informasi Pembuat
 - **Nama:** Zerlina Anggun Candrawati
