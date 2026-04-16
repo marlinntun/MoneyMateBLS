@@ -1,0 +1,13 @@
+<resources>
+    <color name="primary_green">#1B5E20</color>
+    <color name="secondary_green">#2E7D32</color>
+    <color name="income_green">#2E7D32</color>
+    <color name="expense_red">#C62828</color>
+    <color name="background_light">#F6F8FB</color>
+    <color name="surface_white">#FFFFFFFF</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="soft_border">#DDE3EA</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

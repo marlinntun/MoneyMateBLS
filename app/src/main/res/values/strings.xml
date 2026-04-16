@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MoneyMate</string>
+
+    <string name="app_title">MoneyMate</string>
+    <string name="app_subtitle">Aplikasi catatan keuangan harian yang sederhana, rapi, dan mudah dipakai.</string>
+
+    <string name="btn_add_transaction">Tambah Transaksi</string>
+    <string name="btn_view_transactions">Lihat Transaksi</string>
+    <string name="btn_preview">Preview</string>
+    <string name="btn_save_to_list">Simpan ke Daftar</string>
+    <string name="btn_edit_again">Kembali Edit</string>
+    <string name="btn_delete">Hapus Transaksi</string>
+
+    <string name="label_title">Judul Transaksi</string>
+    <string name="label_category">Kategori</string>
+    <string name="label_amount">Nominal</string>
+    <string name="label_date">Tanggal</string>
+    <string name="label_type">Jenis Transaksi</string>
+    <string name="label_note">Catatan</string>
+
+    <string name="hint_title">Contoh: Beli makan siang</string>
+    <string name="hint_amount">Contoh: 20000</string>
+    <string name="hint_date">Pilih tanggal</string>
+    <string name="hint_note">Catatan tambahan transaksi</string>
+
+    <string name="type_income">Pemasukan</string>
+    <string name="type_expense">Pengeluaran</string>
+
+    <string name="summary_balance">Saldo</string>
+    <string name="summary_income">Total Pemasukan</string>
+    <string name="summary_expense">Total Pengeluaran</string>
+
+    <string name="empty_transaction">Belum ada transaksi.</string>
+    <string name="preview_title">Preview Transaksi</string>
+    <string name="detail_title">Detail Transaksi</string>
+    <string name="list_title">Daftar Transaksi</string>
+    <string name="input_title">Tambah Transaksi</string>
+
+    <string name="delete_confirm_title">Hapus transaksi</string>
+    <string name="delete_confirm_message">Yakin ingin menghapus transaksi ini?</string>
+    <string name="yes_delete">Hapus</string>
+    <string name="cancel">Batal</string>
+
+    <string-array name="transaction_categories">
+        <item>Makanan</item>
+        <item>Transportasi</item>
+        <item>Kuliah</item>
+        <item>Tagihan</item>
+        <item>Belanja</item>
+        <item>Hiburan</item>
+        <item>Gaji</item>
+        <item>Pemasukan Lain</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
